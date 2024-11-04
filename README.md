@@ -1,10 +1,12 @@
 # LITA_Class_Documentation
 
 ## Project Title: E commerce Analysis
-[Project Overview](#project-overview)
-[Data Sources]
-[Tools Used]
-[Data Cleaning and Preparation]
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview
 
