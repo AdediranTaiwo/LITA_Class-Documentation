@@ -1,6 +1,10 @@
 # LITA_Class_Documentation
 
 ## Project Title: E commerce Analysis
+[Project Overview](#project-overview)
+[Data Sources]
+[Tools Used]
+[Data Cleaning and Preparation]
 
 ### Project Overview
 
@@ -38,4 +42,8 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 
 [BI assignment1](https://github.com/user-attachments/assets/ff341db7-74be-4cd7-90e5-84de7a24b467)
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table3|
 
