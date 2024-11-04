@@ -34,5 +34,8 @@ This is where we include some basic lines of code or queries or even some of th 
 ```SQL
 SELECT* FROM TABLE1
 WHERE CONDITION = TRUE
-
+```
 ### Data Visualization
+
+[BI assignment1](https://github.com/user-attachments/assets/ff341db7-74be-4cd7-90e5-84de7a24b467)
+
