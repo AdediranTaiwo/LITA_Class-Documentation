@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-## Project Title: E commerce Analysis
+## Project Title: My Data Analysis journey with the Incubator hub. It has really been an awesome moments having to learn from professionals in the field of Analyzing Data using Microsoft Excel, SQL and powerBI.
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
