@@ -4,7 +4,6 @@
 
 ### Project Overview
 
-```
 This project aims at generatind reports for the Salary of a company employee and how it changes with respect to how long thy have been in the organization
 
 ### Data Sources
